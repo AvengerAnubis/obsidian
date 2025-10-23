@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0afe80940169802d","x":-420,"y":-340,"width":420,"height":77,"type":"text","text":"# Header.jsx"},
+		{"id":"84f8d3135f6c4092","x":-420,"y":-263,"width":420,"height":363,"type":"text","text":"# PageContent.jsx"},
+		{"id":"cd03f28a3cfe6575","x":-420,"y":100,"width":420,"height":83,"type":"text","text":"# Footer.jsx"},
+		{"id":"36f3b761c198a052","type":"text","text":"# App.jsx","x":-680,"y":-120,"width":160,"height":80},
+		{"id":"f79e8e3465a79731","x":160,"y":-263,"width":233,"height":83,"type":"text","text":"# SideMenu.jsx"},
+		{"id":"2e6e9a83bad4a2be","x":160,"y":-40,"width":274,"height":71,"type":"text","text":"# MainContent.jsx"},
+		{"id":"6c62b32b29462164","x":500,"y":-169,"width":365,"height":89,"type":"text","text":"# SearchComponent.jsx"},
+		{"id":"ab03dfa0ff731bf1","x":520,"y":-4,"width":241,"height":73,"type":"text","text":"# ProductList.jsx"}
+	],
+	"edges":[
+		{"id":"4d2c37811ebe1d12","fromNode":"36f3b761c198a052","fromSide":"right","toNode":"0afe80940169802d","toSide":"left"},
+		{"id":"a34533d9a75d89ea","fromNode":"36f3b761c198a052","fromSide":"right","toNode":"84f8d3135f6c4092","toSide":"left"},
+		{"id":"015f0d8a0234a3ce","fromNode":"36f3b761c198a052","fromSide":"right","toNode":"cd03f28a3cfe6575","toSide":"left"},
+		{"id":"f3f0647b1980fc50","fromNode":"84f8d3135f6c4092","fromSide":"right","toNode":"f79e8e3465a79731","toSide":"left"},
+		{"id":"98976b63f747cc06","fromNode":"84f8d3135f6c4092","fromSide":"right","toNode":"2e6e9a83bad4a2be","toSide":"left"},
+		{"id":"ac969ff08228dc4a","fromNode":"2e6e9a83bad4a2be","fromSide":"right","toNode":"6c62b32b29462164","toSide":"left"},
+		{"id":"d0dc514507436b17","fromNode":"2e6e9a83bad4a2be","fromSide":"right","toNode":"ab03dfa0ff731bf1","toSide":"left"}
+	]
+}

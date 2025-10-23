@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b61ddc5d2a583528","x":-820,"y":-80,"width":1340,"height":640,"type":"group","label":"MVVM"},
+		{"id":"2aa91f682485a827","type":"text","text":"## Model\n- Data\n- Business logic","x":-780,"y":300,"width":330,"height":187},
+		{"id":"b5fae585157dcd5f","x":-360,"y":-20,"width":417,"height":191,"type":"text","text":"## ViewModel\n- Data formatted to be displayed by View\n- Notificates Model to perform an action\n- or update a data"},
+		{"id":"7064291cdc2cc7bc","x":140,"y":300,"width":351,"height":187,"type":"text","text":"## View\n- [[UI]]\n- Displays data from ViewModel\n- Calls actions and commands in ViewModel"}
+	],
+	"edges":[
+		{"id":"ff49de22a4818f36","fromNode":"2aa91f682485a827","fromSide":"top","toNode":"b5fae585157dcd5f","toSide":"left","label":"Data ->\n<- Updates"},
+		{"id":"d8e2b76bb7130b5f","fromNode":"b5fae585157dcd5f","fromSide":"left","toNode":"2aa91f682485a827","toSide":"top"},
+		{"id":"34067eec4dfea24d","fromNode":"b5fae585157dcd5f","fromSide":"right","toNode":"7064291cdc2cc7bc","toSide":"top"},
+		{"id":"7a464afd92e345ca","fromNode":"7064291cdc2cc7bc","fromSide":"top","toNode":"b5fae585157dcd5f","toSide":"right","label":"Commands and bindings"}
+	]
+}
