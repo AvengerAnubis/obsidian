@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Libraries/React/React Architecture.canvas",
+                "file": "Libraries/React/Component Architecture.canvas",
                 "viewState": {
-                  "x": -36.11807167902407,
-                  "y": 45.08829055758244,
-                  "zoom": -0.8888888549804688
+                  "x": -10.742733379669005,
+                  "y": 327.92357915681055,
+                  "zoom": -0.798871499021982
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "React Architecture"
+              "title": "Component Architecture"
             }
           }
         ]
@@ -182,10 +182,10 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
+    "Libraries/React/Component.md",
+    "Libraries/React/Component Architecture.canvas",
     "Libraries/React/React.md",
     "Libraries/React/Api/useEffectEvent.md",
-    "Libraries/React/React Architecture.canvas",
-    "Libraries/React/Component.md",
     "Concepts/MVC/MVC.canvas",
     "Concepts/MVC/MVC.md",
     "Concepts/MVVM/MVVM.md",
