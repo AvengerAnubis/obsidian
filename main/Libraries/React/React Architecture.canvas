@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"92524177ec29ce4c","type":"group","x":-200,"y":-320,"width":689,"height":720,"label":"Component processing"},
+		{"id":"7e3ad64f2881ea0a","type":"text","text":"### default exported function","x":-140,"y":-300,"width":220,"height":100},
+		{"id":"25086942c284df7b","x":-140,"y":280,"width":116,"height":79,"type":"text","text":"### DOM"},
+		{"id":"4c2198f9144b3129","x":-151,"y":-13,"width":250,"height":60,"type":"text","text":"### Props"},
+		{"id":"57181866f4af3867","x":-82,"y":80,"width":201,"height":69,"type":"text","text":"### Getting [[useState|states]]"}
+	],
+	"edges":[]
+}
