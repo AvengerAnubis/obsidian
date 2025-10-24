@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"92524177ec29ce4c","type":"group","x":-860,"y":-580,"width":1760,"height":1740,"label":"Component processing"},
+		{"id":"92524177ec29ce4c","type":"group","x":-860,"y":-580,"width":1700,"height":1580,"label":"Component processing"},
 		{"id":"4c2198f9144b3129","type":"text","text":"### Getting props throught function parameters","x":-145,"y":-160,"width":231,"height":113},
 		{"id":"fa3944196bc93906","type":"text","text":"### Setting [[useState|states]]","x":251,"y":-84,"width":189,"height":75},
 		{"id":"bf38bb69f18096b4","type":"text","text":"### Render","x":-258,"y":580,"width":140,"height":65},
@@ -15,8 +15,10 @@
 		{"id":"57181866f4af3867","type":"text","text":"### Getting [[useState|states]]","x":-318,"y":47,"width":145,"height":113},
 		{"id":"85c82b20134a09cd","type":"text","text":"### Creating [[useEffect|Effects]]","x":-74,"y":47,"width":160,"height":113},
 		{"id":"42601bc87a041321","type":"text","text":"### Getting [[useContext|Context]]","x":-840,"y":47,"width":140,"height":113},
-		{"id":"b5ca8193c762808b","type":"text","text":"### Executing the code","x":-715,"y":460,"width":250,"height":60},
-		{"id":"894e87f81ddda321","x":-678,"y":300,"width":176,"height":76,"type":"text","text":"### provided to"}
+		{"id":"894e87f81ddda321","x":-678,"y":300,"width":176,"height":76,"type":"text","text":"### provided to"},
+		{"id":"b5ca8193c762808b","type":"text","text":"### Executing the code","x":-687,"y":460,"width":195,"height":120},
+		{"id":"b3d5c93ae80df24b","x":-692,"y":654,"width":206,"height":133,"type":"text","text":"### Returning markup of the [[Component|Component]]"},
+		{"id":"43458dca6760f1be","x":-293,"y":880,"width":211,"height":97,"type":"text","text":"### Everything that user sees"}
 	],
 	"edges":[
 		{"id":"aba8e899d5b338f7","fromNode":"7e3ad64f2881ea0a","fromSide":"bottom","toNode":"4c2198f9144b3129","toSide":"top"},
@@ -36,6 +38,9 @@
 		{"id":"7e773d23eeb41b42","fromNode":"42601bc87a041321","fromSide":"bottom","toNode":"894e87f81ddda321","toSide":"top"},
 		{"id":"266fd1b9b9998ba8","fromNode":"21696c95e879b7ca","fromSide":"bottom","toNode":"894e87f81ddda321","toSide":"top"},
 		{"id":"c89525e358e6618f","fromNode":"57181866f4af3867","fromSide":"bottom","toNode":"894e87f81ddda321","toSide":"top"},
-		{"id":"5f88650b0297895c","fromNode":"894e87f81ddda321","fromSide":"bottom","toNode":"b5ca8193c762808b","toSide":"top"}
+		{"id":"5f88650b0297895c","fromNode":"894e87f81ddda321","fromSide":"bottom","toNode":"b5ca8193c762808b","toSide":"top"},
+		{"id":"1f573ef297bd5514","fromNode":"b5ca8193c762808b","fromSide":"bottom","toNode":"b3d5c93ae80df24b","toSide":"top"},
+		{"id":"b539c111d1f7a842","fromNode":"b3d5c93ae80df24b","fromSide":"right","toNode":"bf38bb69f18096b4","toSide":"left"},
+		{"id":"c4b917993359d9f9","fromNode":"25086942c284df7b","fromSide":"bottom","toNode":"43458dca6760f1be","toSide":"top"}
 	]
 }
