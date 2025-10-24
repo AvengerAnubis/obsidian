@@ -4,7 +4,7 @@
 - ### Combine them into complex components, screens, pages, apps
 - ### Combine components made by others
 - ### Components are JS functions
-- ### Components use [[JSX]] syntax (HTML in JS)
+- ### Components use JSX syntax (HTML in JS)
 ## Thinking in React while creating an app
 - ### Break UI into a component hierarchy (tree) ([[Component Hierarchy Example.canvas|example]])
 - ### Building a static version of an app without any interactivity yet

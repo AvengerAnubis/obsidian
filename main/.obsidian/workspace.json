@@ -11,17 +11,14 @@
             "id": "681ef2416cf22692",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Libraries/React/Component Architecture.canvas",
-                "viewState": {
-                  "x": -10.742733379669005,
-                  "y": 327.92357915681055,
-                  "zoom": -0.798871499021982
-                }
+                "file": "Libraries/React/React.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Component Architecture"
+              "icon": "lucide-file",
+              "title": "React"
             }
           }
         ]
@@ -183,15 +180,15 @@
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
     "Libraries/React/Component.md",
-    "Libraries/React/Component Architecture.canvas",
     "Libraries/React/React.md",
+    "Libraries/React/Component Architecture.canvas",
+    "Libraries/React/Component Hierarchy Example.canvas",
     "Libraries/React/Api/useEffectEvent.md",
     "Concepts/MVC/MVC.canvas",
     "Concepts/MVC/MVC.md",
     "Concepts/MVVM/MVVM.md",
     "Concepts/MVVM/MVVM.canvas",
     "Concepts/Single Responsibility Principle.md",
-    "Libraries/React/Component Hierarchy Example.canvas",
     "Libraries/React/Api/useEffect.md",
     "Libraries/React/Api/useState.md",
     "Libraries/React/Api/useRef.md",
