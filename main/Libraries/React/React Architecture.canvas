@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"92524177ec29ce4c","type":"group","x":-500,"y":-580,"width":1400,"height":1740,"label":"Component processing"},
+		{"id":"92524177ec29ce4c","type":"group","x":-860,"y":-580,"width":1760,"height":1740,"label":"Component processing"},
 		{"id":"4c2198f9144b3129","type":"text","text":"### Getting props throught function parameters","x":-145,"y":-160,"width":231,"height":113},
-		{"id":"57181866f4af3867","type":"text","text":"### Getting [[useState|states]]","x":-130,"y":0,"width":201,"height":69},
 		{"id":"fa3944196bc93906","type":"text","text":"### Setting [[useState|states]]","x":251,"y":-84,"width":189,"height":75},
 		{"id":"bf38bb69f18096b4","type":"text","text":"### Render","x":-258,"y":580,"width":140,"height":65},
 		{"id":"da49e430e25e24cb","type":"text","text":"### Executing [[useEffect|Effects]]","x":19,"y":580,"width":250,"height":60},
@@ -10,13 +9,18 @@
 		{"id":"9af9bdf448c7214c","type":"text","text":"### Able to","x":653,"y":840,"width":120,"height":80},
 		{"id":"ffa9012abc0a7bac","type":"text","text":"### Events (onClick, etc)","x":19,"y":740,"width":250,"height":60},
 		{"id":"db2605b9f884b223","type":"text","text":"### [[useEffectEvent|Effect Events]]","x":400,"y":460,"width":199,"height":75},
-		{"id":"85c82b20134a09cd","type":"text","text":"### Creating [[useEffect|Effects]]","x":-438,"y":5,"width":250,"height":60},
 		{"id":"f52d915a13b177f3","type":"text","text":"### Code inside JSX file","x":19,"y":-540,"width":288,"height":87},
-		{"id":"7e3ad64f2881ea0a","type":"text","text":"### default exported function of the [[Component|Component]]","x":-188,"y":-360,"width":317,"height":100}
+		{"id":"7e3ad64f2881ea0a","type":"text","text":"### default exported function of the [[Component|Component]]","x":-188,"y":-360,"width":317,"height":100},
+		{"id":"21696c95e879b7ca","type":"text","text":"### Getting [[useRef|Refs]]","x":-590,"y":47,"width":140,"height":113},
+		{"id":"57181866f4af3867","type":"text","text":"### Getting [[useState|states]]","x":-318,"y":47,"width":145,"height":113},
+		{"id":"85c82b20134a09cd","type":"text","text":"### Creating [[useEffect|Effects]]","x":-74,"y":47,"width":160,"height":113},
+		{"id":"42601bc87a041321","type":"text","text":"### Getting [[useContext|Context]]","x":-840,"y":47,"width":140,"height":113},
+		{"id":"b5ca8193c762808b","type":"text","text":"### Executing the code","x":-715,"y":460,"width":250,"height":60},
+		{"id":"894e87f81ddda321","x":-678,"y":300,"width":176,"height":76,"type":"text","text":"### provided to"}
 	],
 	"edges":[
 		{"id":"aba8e899d5b338f7","fromNode":"7e3ad64f2881ea0a","fromSide":"bottom","toNode":"4c2198f9144b3129","toSide":"top"},
-		{"id":"4032b6c257bff95b","fromNode":"4c2198f9144b3129","fromSide":"bottom","toNode":"57181866f4af3867","toSide":"top"},
+		{"id":"4032b6c257bff95b","fromNode":"4c2198f9144b3129","fromSide":"left","toNode":"57181866f4af3867","toSide":"top"},
 		{"id":"b9934c22c98de6d9","fromNode":"bf38bb69f18096b4","fromSide":"right","toNode":"da49e430e25e24cb","toSide":"left","label":"on mount"},
 		{"id":"6191f0c79a196a1b","fromNode":"fa3944196bc93906","fromSide":"bottom","toNode":"da49e430e25e24cb","toSide":"top","label":"if effect uses state\n as dependency"},
 		{"id":"43259a9b8f591cac","fromNode":"bf38bb69f18096b4","fromSide":"bottom","toNode":"25086942c284df7b","toSide":"top"},
@@ -25,6 +29,13 @@
 		{"id":"de0d747adb0bc6d3","fromNode":"ffa9012abc0a7bac","fromSide":"right","toNode":"9af9bdf448c7214c","toSide":"left"},
 		{"id":"2532b6e4f3f00cc7","fromNode":"fa3944196bc93906","fromSide":"top","toNode":"7e3ad64f2881ea0a","toSide":"right","label":"cause a re-render"},
 		{"id":"297c46b41c001a8b","fromNode":"f52d915a13b177f3","fromSide":"bottom","toNode":"7e3ad64f2881ea0a","toSide":"top"},
-		{"id":"10cdf3a5963c5377","fromNode":"da49e430e25e24cb","fromSide":"right","toNode":"db2605b9f884b223","toSide":"left","label":"can add"}
+		{"id":"10cdf3a5963c5377","fromNode":"da49e430e25e24cb","fromSide":"right","toNode":"db2605b9f884b223","toSide":"left","label":"can add"},
+		{"id":"0f964c1085568bc1","fromNode":"4c2198f9144b3129","fromSide":"bottom","toNode":"85c82b20134a09cd","toSide":"top"},
+		{"id":"6a925e2e671b1895","fromNode":"4c2198f9144b3129","fromSide":"left","toNode":"21696c95e879b7ca","toSide":"top"},
+		{"id":"21ac7d91a9ae4025","fromNode":"4c2198f9144b3129","fromSide":"left","toNode":"42601bc87a041321","toSide":"top"},
+		{"id":"7e773d23eeb41b42","fromNode":"42601bc87a041321","fromSide":"bottom","toNode":"894e87f81ddda321","toSide":"top"},
+		{"id":"266fd1b9b9998ba8","fromNode":"21696c95e879b7ca","fromSide":"bottom","toNode":"894e87f81ddda321","toSide":"top"},
+		{"id":"c89525e358e6618f","fromNode":"57181866f4af3867","fromSide":"bottom","toNode":"894e87f81ddda321","toSide":"top"},
+		{"id":"5f88650b0297895c","fromNode":"894e87f81ddda321","fromSide":"bottom","toNode":"b5ca8193c762808b","toSide":"top"}
 	]
 }
