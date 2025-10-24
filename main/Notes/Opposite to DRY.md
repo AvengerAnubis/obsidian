@@ -1,5 +1,3 @@
 >"Rule of Three" - wait until the duplication has happened a third time before refactoring.
 >Instead of DRY (don’t repeat yourself), and instead of WET (write everything twice), and instead of DAMP (don’t abstract; make practical), and instead of DEHYDRATE (don’t ever hate your duties; remember, all things end), go with SUPERHYDROPHOBICATION (simplify until patterns emerge, refactor, harden your design; reduce overhead; prefer high observability; boundary isolation, create automation; test, instrument, optimise, normalize).
 ###### [@AlanMitchellAustralia](https://www.youtube.com/@AlanMitchellAustralia)
-
-
