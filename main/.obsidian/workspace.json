@@ -15,9 +15,9 @@
               "state": {
                 "file": "Libraries/React/React Architecture.canvas",
                 "viewState": {
-                  "x": 380.7901162746233,
-                  "y": 692.9152300489941,
-                  "zoom": -0.2222222137451172
+                  "x": 200,
+                  "y": 90.61862736882387,
+                  "zoom": -0.8874081736236394
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -182,6 +182,7 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
+    "Libraries/React/Component.md",
     "Libraries/React/React.md",
     "Libraries/React/React Architecture.canvas",
     "Concepts/MVC/MVC.canvas",
@@ -189,7 +190,6 @@
     "Concepts/MVVM/MVVM.md",
     "Concepts/MVVM/MVVM.canvas",
     "Concepts/Single Responsibility Principle.md",
-    "Libraries/React/Component.md",
     "Libraries/React/Component Hierarchy Example.canvas",
     "Libraries/React/Api/useEffectEvent.md",
     "Libraries/React/Api/useEffect.md",
