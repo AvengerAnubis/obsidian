@@ -11,14 +11,17 @@
             "id": "681ef2416cf22692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Libraries/React/React.md",
-                "mode": "source",
-                "source": false
+                "file": "Libraries/React/React Architecture.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "React"
+              "icon": "lucide-layout-dashboard",
+              "title": "React Architecture"
             }
           }
         ]
@@ -179,17 +182,20 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
-    "Libraries/React/Component.md",
     "Libraries/React/React.md",
-    "Libraries/React/Component Hierarchy Example.canvas",
+    "Libraries/React/React Architecture.canvas",
+    "Concepts/MVC/MVC.canvas",
+    "Concepts/MVC/MVC.md",
+    "Concepts/MVVM/MVVM.md",
+    "Concepts/MVVM/MVVM.canvas",
     "Concepts/Single Responsibility Principle.md",
+    "Libraries/React/Component.md",
+    "Libraries/React/Component Hierarchy Example.canvas",
     "Libraries/React/Api/useEffectEvent.md",
     "Libraries/React/Api/useEffect.md",
     "Libraries/React/Api/useState.md",
     "Libraries/React/Api/useRef.md",
     "Libraries/React/Api/useReducer.md",
-    "Concepts/MVC/MVC.md",
-    "Concepts/MVC/MVC.canvas",
     "Concepts/DRY.md",
     "Concepts/Pure function.md",
     "Concepts/UI.md",
@@ -204,8 +210,6 @@
     "2025-10-24.md",
     "Patterns/MVC/Untitled.base",
     "Libraries/React",
-    "Concepts/MVVM/MVVM.md",
-    "Concepts/MVVM/MVVM.canvas",
     "Concepts/MVVM",
     "Patterns/MVC/View.md",
     "Frameworks/Untitled.md",
