@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React/React.md",
+                "file": "Notes/Opposite to DRY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "Opposite to DRY"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
-    "Libraries/React/Component.md",
     "Libraries/React/React.md",
+    "Notes/Opposite to DRY.md",
+    "Notes",
+    "Libraries/React/Component.md",
     "Libraries/React/Component Architecture.canvas",
     "Libraries/React/Component Hierarchy Example.canvas",
     "Libraries/React/Api/useEffectEvent.md",
@@ -213,7 +215,6 @@
     "Concepts/MVC",
     "create a link.md",
     "Welcome.md",
-    "Untitled",
     "ProgLangs",
     "Frameworks",
     "Libraries",
