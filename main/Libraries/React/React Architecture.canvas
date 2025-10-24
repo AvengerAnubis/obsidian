@@ -1,10 +1,22 @@
 {
 	"nodes":[
-		{"id":"92524177ec29ce4c","type":"group","x":-200,"y":-320,"width":689,"height":720,"label":"Component processing"},
+		{"id":"92524177ec29ce4c","type":"group","x":-500,"y":-320,"width":1400,"height":1480,"label":"Component processing"},
+		{"id":"db2605b9f884b223","x":21,"y":925,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7e3ad64f2881ea0a","type":"text","text":"### default exported function","x":-140,"y":-300,"width":220,"height":100},
-		{"id":"25086942c284df7b","x":-140,"y":280,"width":116,"height":79,"type":"text","text":"### DOM"},
-		{"id":"4c2198f9144b3129","x":-151,"y":-13,"width":250,"height":60,"type":"text","text":"### Props"},
-		{"id":"57181866f4af3867","x":-82,"y":80,"width":201,"height":69,"type":"text","text":"### Getting [[useState|states]]"}
+		{"id":"4c2198f9144b3129","x":-145,"y":-160,"width":231,"height":113,"type":"text","text":"### Getting props throught function parameters"},
+		{"id":"57181866f4af3867","x":-130,"y":0,"width":201,"height":69,"type":"text","text":"### Getting [[useState|states]]"},
+		{"id":"fa3944196bc93906","x":240,"y":-250,"width":189,"height":75,"type":"text","text":"### Setting states"},
+		{"id":"25086942c284df7b","x":-45,"y":720,"width":116,"height":80,"type":"text","text":"### DOM"},
+		{"id":"bf38bb69f18096b4","x":-57,"y":580,"width":140,"height":65,"type":"text","text":"### Render"},
+		{"id":"da49e430e25e24cb","x":220,"y":580,"width":250,"height":60,"type":"text","text":"### Executing [[useEffect|Effects]]"},
+		{"id":"ffa9012abc0a7bac","x":154,"y":760,"width":250,"height":60,"type":"text","text":"### Events (onClick, etc)"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"aba8e899d5b338f7","fromNode":"7e3ad64f2881ea0a","fromSide":"bottom","toNode":"4c2198f9144b3129","toSide":"top"},
+		{"id":"4032b6c257bff95b","fromNode":"4c2198f9144b3129","fromSide":"bottom","toNode":"57181866f4af3867","toSide":"top"},
+		{"id":"4764915e55140474","fromNode":"57181866f4af3867","fromSide":"right","toNode":"fa3944196bc93906","toSide":"left"},
+		{"id":"b9934c22c98de6d9","fromNode":"bf38bb69f18096b4","fromSide":"right","toNode":"da49e430e25e24cb","toSide":"left","label":"on mount"},
+		{"id":"6191f0c79a196a1b","fromNode":"fa3944196bc93906","fromSide":"bottom","toNode":"da49e430e25e24cb","toSide":"top","label":"if effect uses state\n as dependency"},
+		{"id":"43259a9b8f591cac","fromNode":"bf38bb69f18096b4","fromSide":"bottom","toNode":"25086942c284df7b","toSide":"top"}
+	]
 }
