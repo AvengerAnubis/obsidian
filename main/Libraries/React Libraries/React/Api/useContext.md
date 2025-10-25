@@ -1,3 +1,4 @@
+## [[Hook]]
 ## Creating context
 ```jsx
 import { createContext } from 'react';
