@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Opposite to DRY.md",
+                "file": "Libraries/Tailwind CSS/Tailwind CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opposite to DRY"
+              "title": "Tailwind CSS"
             }
           }
         ]
@@ -179,8 +179,13 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
-    "Libraries/React/React.md",
+    "Libraries/daisyUI/daisyUI.md",
+    "Libraries/Tailwind CSS/Tailwind CSS.md",
+    "Libraries/Tailwind CSS",
+    "Libraries/React/Api/className.md",
     "Notes/Opposite to DRY.md",
+    "Libraries/daisyUI",
+    "Libraries/React/React.md",
     "Notes",
     "Libraries/React/Component.md",
     "Libraries/React/Component Architecture.canvas",
@@ -214,10 +219,6 @@
     "Frameworks/Untitled.md",
     "Concepts/MVC",
     "create a link.md",
-    "Welcome.md",
-    "ProgLangs",
-    "Frameworks",
-    "Libraries",
-    "Untitled.md"
+    "ProgLangs"
   ]
 }
