@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/Tailwind CSS/Tailwind CSS.md",
+                "file": "Libraries/React Hook Form/React Hook Form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tailwind CSS"
+              "title": "React Hook Form"
             }
           }
         ]
@@ -180,6 +180,8 @@
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
     "Libraries/daisyUI/daisyUI.md",
+    "Libraries/React Hook Form/React Hook Form.md",
+    "Libraries/React Hook Form",
     "Libraries/Tailwind CSS/Tailwind CSS.md",
     "Libraries/Tailwind CSS",
     "Libraries/React/Api/className.md",
@@ -217,8 +219,6 @@
     "Concepts/MVVM",
     "Patterns/MVC/View.md",
     "Frameworks/Untitled.md",
-    "Concepts/MVC",
-    "create a link.md",
-    "ProgLangs"
+    "Concepts/MVC"
   ]
 }

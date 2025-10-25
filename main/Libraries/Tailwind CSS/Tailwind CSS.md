@@ -1,2 +1,2 @@
 ## A collection of huge amount of CSS classes that lets you apply many CSS properties to HTML elements without the need to make or change any CSS files
-## For example, `flex` class is a shortcut for `display: flex;`, y
+## For example, `flex` class is a shortcut for `display: flex;`, so you're no more needed to create a CSS class with only that intention
