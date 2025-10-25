@@ -24,3 +24,6 @@ export default function Component({props, moreProps, children /*all elements pla
 ## Rendering lists - `array.map(data => <li>{data}</li>)`
 ## Keep component functions as [[Pure function|pure]]
 ## [[Component Architecture.canvas|Architecture]]
+
+## Server Component - a component that renders at the server ahead of time before being shown to a user. Can run on a server to fetch static content or read from the filesystem.
+### Code in the component function 
