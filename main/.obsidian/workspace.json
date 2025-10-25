@@ -11,14 +11,17 @@
             "id": "681ef2416cf22692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Libraries/React Libraries/React/React.md",
-                "mode": "source",
-                "source": false
+                "file": "Stacks/React based stack.canvas",
+                "viewState": {
+                  "x": -670,
+                  "y": -33,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "React"
+              "icon": "lucide-layout-dashboard",
+              "title": "React based stack"
             }
           }
         ]
@@ -177,12 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b1e5c9b410f0769",
+  "active": "681ef2416cf22692",
   "lastOpenFiles": [
+    "Libraries/React Libraries/Redux/Redux.md",
+    "Libraries/React Libraries/Zustand/Zustand.md",
+    "Stacks/React based stack.canvas",
+    "Libraries/React Libraries/daisyUI/daisyUI.md",
+    "Libraries/React Libraries/React/React.md",
     "Libraries/React Libraries/React/React_logo.png",
     "Pasted image 20251025234913.png",
-    "Libraries/React Libraries/React/React.md",
-    "Stacks/React based stack.canvas",
     "Frameworks/NextJS/NextJS.md",
     "Stacks",
     "Notes/Untitled.md",
@@ -190,10 +196,8 @@
     "Libraries/React Libraries/React/Component.md",
     "Libraries/React Libraries/React/Component Architecture.canvas",
     "Libraries/React Libraries/React/Untitled.md",
-    "Libraries/React Libraries/Redux/Redux.md",
     "Frameworks/NextJS",
     "Tools",
-    "Libraries/React Libraries/Zustand/Zustand.md",
     "Libraries/React Libraries/Redux",
     "Libraries/React Libraries/Motion (Framer Motion)/Motion (Framer Motion).md",
     "Libraries/React Libraries/React/Api/useState.md",
@@ -209,7 +213,6 @@
     "Libraries/Untitled.canvas",
     "Libraries/React Libraries/React Hook Form/React Hook Form.md",
     "Libraries/React Libraries/Motion (Framer Motion)",
-    "Libraries/React Libraries/daisyUI/daisyUI.md",
     "Libraries/React Libraries/React Hook Form",
     "Libraries/Tailwind CSS/Tailwind CSS.md",
     "Libraries/Tailwind CSS",
