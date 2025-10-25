@@ -20,6 +20,7 @@ export default function Component({props, moreProps, children /*all elements pla
 }
 ```
 ## Can return null sometimes (nothing to render)
+## You can use [Hook|hooks] for accessing different features in your component
 ## Rendering lists - `array.map(data => <li>{data}</li>)`
 ## Keep component functions as [[Pure function|pure]]
 ## [[Component Architecture.canvas|Architecture]]

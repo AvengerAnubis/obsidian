@@ -1,3 +1,4 @@
+## [[Hook]]
 ## Different way of managing states:
 ### Instead of telling React "what to do", you tell "what the user just did"
 ```jsx

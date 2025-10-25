@@ -1,3 +1,4 @@
+## [[Hook]]
 ## Extracts non-reactive logic outside of the event
 ```jsx
 import { useEffect, useEffectEvent } from 'react';  
