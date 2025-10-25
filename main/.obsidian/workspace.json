@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React Libraries/Redux/Redux.md",
+                "file": "Frameworks/NextJS/NextJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redux"
+              "title": "NextJS"
             }
           }
         ]
@@ -179,8 +179,11 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
-    "Libraries/React Libraries/Zustand/Zustand.md",
     "Libraries/React Libraries/Redux/Redux.md",
+    "Frameworks/NextJS/NextJS.md",
+    "Frameworks/NextJS",
+    "Tools",
+    "Libraries/React Libraries/Zustand/Zustand.md",
     "Libraries/React Libraries/Redux",
     "Libraries/React Libraries/Motion (Framer Motion)/Motion (Framer Motion).md",
     "Libraries/React Libraries/React/Component.md",
@@ -217,9 +220,6 @@
     "Concepts/UI.md",
     "Concepts/UX.md",
     "Untitled.canvas",
-    "Concepts/Concepts.base",
-    "Concepts/Untitled 1.md",
-    "Libraries/React Libraries/React/Api",
-    "Libraries/React/JSX.md"
+    "Concepts/Untitled 1.md"
   ]
 }
