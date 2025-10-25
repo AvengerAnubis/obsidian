@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"a61c89e76866cd49","x":-340,"y":-100,"width":400,"height":400,"type":"file","file":"Stacks/React stack.canvas"},
-		{"id":"c3808d51009a8b43","x":360,"y":5,"width":292,"height":190,"type":"text","text":"# [[NextJS]]"}
+		{"id":"a61c89e76866cd49","type":"file","file":"Stacks/React stack.canvas","x":-340,"y":-100,"width":400,"height":400},
+		{"id":"c3808d51009a8b43","type":"text","text":"# [[NextJS]]","x":360,"y":5,"width":292,"height":190}
 	],
 	"edges":[
-		{"id":"62520408cc8f473d","fromNode":"c3808d51009a8b43","fromSide":"left","toNode":"a61c89e76866cd49","toSide":"right","label":"react"}
+		{"id":"62520408cc8f473d","fromNode":"c3808d51009a8b43","fromSide":"left","toNode":"a61c89e76866cd49","toSide":"right","label":"react stack"}
 	]
 }
