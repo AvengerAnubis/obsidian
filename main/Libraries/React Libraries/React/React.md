@@ -1,4 +1,5 @@
 ## The library for web and native user interfaces
+![[React_logo.png]]
 ## Summary
 - ### [[UI|User interfaces]] as individual pieces named [[Component|components]]
 - ### Combine them into complex components, screens, pages, apps

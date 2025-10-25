@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React Libraries/React/Component.md",
+                "file": "Libraries/React Libraries/React/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Component"
+              "title": "React"
             }
           }
         ]
@@ -177,11 +177,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "681ef2416cf22692",
+  "active": "2b1e5c9b410f0769",
   "lastOpenFiles": [
-    "Frameworks/NextJS/NextJS.md",
-    "Libraries/React Libraries/React/Component.md",
+    "Libraries/React Libraries/React/React_logo.png",
+    "Pasted image 20251025234913.png",
     "Libraries/React Libraries/React/React.md",
+    "Stacks/React based stack.canvas",
+    "Frameworks/NextJS/NextJS.md",
+    "Stacks",
+    "Notes/Untitled.md",
+    "Libraries/React Libraries/Stack.canvas",
+    "Libraries/React Libraries/React/Component.md",
     "Libraries/React Libraries/React/Component Architecture.canvas",
     "Libraries/React Libraries/React/Untitled.md",
     "Libraries/React Libraries/Redux/Redux.md",
@@ -209,7 +215,6 @@
     "Libraries/Tailwind CSS",
     "Notes/Opposite to DRY.md",
     "Libraries/React Libraries/daisyUI",
-    "Notes",
     "Libraries/React Libraries/React/Component Hierarchy Example.canvas",
     "Concepts/MVC/MVC.canvas",
     "Concepts/MVC/MVC.md",
@@ -218,7 +223,6 @@
     "Concepts/Single Responsibility Principle.md",
     "Concepts/DRY.md",
     "Concepts/Pure function.md",
-    "Concepts/UI.md",
     "Untitled.canvas"
   ]
 }
