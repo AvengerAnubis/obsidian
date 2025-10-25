@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Stacks/React based stack.canvas",
+                "file": "Stacks/Untitled.canvas",
                 "viewState": {
-                  "x": -670,
-                  "y": -33,
+                  "x": 0,
+                  "y": 0,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "React based stack"
+              "title": "Untitled"
             }
           }
         ]
@@ -182,9 +182,11 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
+    "Stacks/React-based full-stack.canvas",
+    "Stacks/Untitled.canvas",
+    "Stacks/React stack.canvas",
     "Libraries/React Libraries/Redux/Redux.md",
     "Libraries/React Libraries/Zustand/Zustand.md",
-    "Stacks/React based stack.canvas",
     "Libraries/React Libraries/daisyUI/daisyUI.md",
     "Libraries/React Libraries/React/React.md",
     "Libraries/React Libraries/React/React_logo.png",
