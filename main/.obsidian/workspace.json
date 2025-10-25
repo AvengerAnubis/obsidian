@@ -180,6 +180,9 @@
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
     "Frameworks/NextJS/NextJS.md",
+    "Libraries/React Libraries/React/Component.md",
+    "Libraries/React Libraries/React/React.md",
+    "Libraries/React Libraries/React/Component Architecture.canvas",
     "Libraries/React Libraries/React/Untitled.md",
     "Libraries/React Libraries/Redux/Redux.md",
     "Frameworks/NextJS",
@@ -187,7 +190,6 @@
     "Libraries/React Libraries/Zustand/Zustand.md",
     "Libraries/React Libraries/Redux",
     "Libraries/React Libraries/Motion (Framer Motion)/Motion (Framer Motion).md",
-    "Libraries/React Libraries/React/Component.md",
     "Libraries/React Libraries/React/Api/useState.md",
     "Libraries/React Libraries/React/Api/useRef.md",
     "Libraries/React Libraries/React/Api/useReducer.md",
@@ -196,7 +198,6 @@
     "Libraries/React Libraries/React/Api/useContext.md",
     "Libraries/React Libraries/React/Api/className.md",
     "Libraries/React Libraries/React/Hook.md",
-    "Libraries/React Libraries/React/React.md",
     "Libraries/React Libraries/Zustand",
     "Libraries/React Libraries",
     "Libraries/Untitled.canvas",
@@ -209,7 +210,6 @@
     "Notes/Opposite to DRY.md",
     "Libraries/React Libraries/daisyUI",
     "Notes",
-    "Libraries/React Libraries/React/Component Architecture.canvas",
     "Libraries/React Libraries/React/Component Hierarchy Example.canvas",
     "Concepts/MVC/MVC.canvas",
     "Concepts/MVC/MVC.md",
@@ -219,7 +219,6 @@
     "Concepts/DRY.md",
     "Concepts/Pure function.md",
     "Concepts/UI.md",
-    "Concepts/UX.md",
     "Untitled.canvas"
   ]
 }
