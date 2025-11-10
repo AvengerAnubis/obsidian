@@ -11,17 +11,14 @@
             "id": "681ef2416cf22692",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Stacks/React stack.canvas",
-                "viewState": {
-                  "x": -570,
-                  "y": 79.4999976348877,
-                  "zoom": 0
-                }
+                "file": "Notes/Opposite to DRY.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "React stack"
+              "icon": "lucide-file",
+              "title": "Opposite to DRY"
             }
           }
         ]
@@ -182,8 +179,10 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
-    "Stacks/NextJS stack.canvas",
+    "Concepts/DRY.md",
+    "Notes/Opposite to DRY.md",
     "Stacks/React stack.canvas",
+    "Stacks/NextJS stack.canvas",
     "Stacks/React-based full-stack.canvas",
     "Libraries/React Libraries/Redux/Redux.md",
     "Libraries/React Libraries/Zustand/Zustand.md",
@@ -218,7 +217,6 @@
     "Libraries/React Libraries/React Hook Form",
     "Libraries/Tailwind CSS/Tailwind CSS.md",
     "Libraries/Tailwind CSS",
-    "Notes/Opposite to DRY.md",
     "Libraries/React Libraries/daisyUI",
     "Libraries/React Libraries/React/Component Hierarchy Example.canvas",
     "Concepts/MVC/MVC.canvas",
@@ -226,7 +224,6 @@
     "Concepts/MVVM/MVVM.md",
     "Concepts/MVVM/MVVM.canvas",
     "Concepts/Single Responsibility Principle.md",
-    "Concepts/DRY.md",
     "Concepts/Pure function.md",
     "Untitled.canvas"
   ]
