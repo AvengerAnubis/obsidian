@@ -11,14 +11,17 @@
             "id": "681ef2416cf22692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/Opposite to DRY.md",
-                "mode": "source",
-                "source": false
+                "file": "Libraries/React Libraries/React/Component Architecture.canvas",
+                "viewState": {
+                  "x": -10,
+                  "y": 210,
+                  "zoom": -0.7988714990219821
+                }
               },
-              "icon": "lucide-file",
-              "title": "Opposite to DRY"
+              "icon": "lucide-layout-dashboard",
+              "title": "Component Architecture"
             }
           }
         ]
@@ -179,8 +182,10 @@
   },
   "active": "681ef2416cf22692",
   "lastOpenFiles": [
-    "Concepts/DRY.md",
+    "Libraries/React Libraries/React/Component Hierarchy Example.canvas",
+    "Libraries/React Libraries/React/Component Architecture.canvas",
     "Notes/Opposite to DRY.md",
+    "Concepts/DRY.md",
     "Stacks/React stack.canvas",
     "Stacks/NextJS stack.canvas",
     "Stacks/React-based full-stack.canvas",
@@ -195,7 +200,6 @@
     "Notes/Untitled.md",
     "Libraries/React Libraries/Stack.canvas",
     "Libraries/React Libraries/React/Component.md",
-    "Libraries/React Libraries/React/Component Architecture.canvas",
     "Libraries/React Libraries/React/Untitled.md",
     "Frameworks/NextJS",
     "Tools",
@@ -218,7 +222,6 @@
     "Libraries/Tailwind CSS/Tailwind CSS.md",
     "Libraries/Tailwind CSS",
     "Libraries/React Libraries/daisyUI",
-    "Libraries/React Libraries/React/Component Hierarchy Example.canvas",
     "Concepts/MVC/MVC.canvas",
     "Concepts/MVC/MVC.md",
     "Concepts/MVVM/MVVM.md",
